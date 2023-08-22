@@ -1,0 +1,15 @@
+<package>
+  <description brief="gui">
+
+     gui
+
+  </description>
+  <author>Iliana</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gui</url>
+  <depend package="rospy"/>
+  <depend package="cv_bridge"/>
+  <depend package="fleet_api"/>
+
+</package>
